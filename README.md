@@ -1,6 +1,6 @@
 # Big-Data-Processing-and-Applications
 
-### 정보융합학부 4학년 2학기 전공과목 빅데이터처리및응용 최종 프로젝트
+### 전공 빅데이터처리및응용 최종 과제
 
 - PostgreSQL과 psycopg2를 이용하여 Dijkstra알고리즘 구현
 
